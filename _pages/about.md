@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Post-doc Researcher at <a href='#'>Inha University</a>. Incheon, Republic of Korea.
 
 profile:
   align: right
