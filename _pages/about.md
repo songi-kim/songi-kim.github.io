@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Graduate School of Logistics,</p>
-    <p>INHA UNIVERSITY,</p>
-    <p>100 Inha-ro, Michuhol-gu</p>
+    <p>Graduate School of Logistics</p>
+    <p>INHA UNIVERSITY</p>
     <p>Incheon, Republic of Korea 22212</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
