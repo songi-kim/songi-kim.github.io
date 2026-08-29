@@ -28,8 +28,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher working at the intersection of production scheduling, additive manufacturing, and supply chain operations.
-
-I use mathematical modeling and optimization to address real-world operational challenges faced by AM service providers.
-
-I am also interested in how shared additive manufacturing gives rise to new supply chain structures and dynamics.
+I am a researcher working at the intersection of production scheduling, additive manufacturing, and supply chain operations. I use mathematical modeling and optimization to address real-world operational challenges faced by AM service providers. I am also interested in how shared additive manufacturing gives rise to new supply chain structures and dynamics.
