@@ -28,4 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher working at the intersection of production scheduling, additive manufacturing, and supply chain operations. Through mathematical modeling and optimization, I address real-world operational challenges faced by AM service providers. My research also explores how shared additive manufacturing gives rise to new supply chain structures and dynamics.
+I am a researcher interested in how additive manufacturing (AM) can enable mass customization through effective production planning and coordination under real-world operating conditions. My work lies at the intersection of production scheduling, additive manufacturing, and supply chain operations. Using mathematical modeling and optimization, I develop scheduling and decision-support methods that lead to practical and implementable decisions.
+
+My research addresses scheduling and production planning under dynamic and uncertain operating conditions, including heterogeneous machines, distributed service providers, capacity constraints, and operational disruptions. I also study shared additive manufacturing as an emerging production and supply chain model, with particular interest in service provider recommendation, resource allocation, and the new supply chain structures and dynamics that arise when manufacturing capacity is distributed across independent providers.
+
+These research interests are grounded in my hands-on experience managing a makerspace equipped with multiple AM systems. In this role, I handled order intake, machine allocation, and production scheduling, while gaining firsthand insight into the operational challenges faced by AM service providers. This experience continues to motivate my pursuit of research that is both methodologically rigorous and practically relevant.
