@@ -9,8 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
+    <p>Graduate School of Logistics,</p>
+    <p>INHA UNIVERSITY,</p>
+    <p>100 Inha-ro, Michuhol-gu</p>
     <p>Incheon, Republic of Korea 22212</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -27,8 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a researcher working at the intersection of production scheduling, additive manufacturing, and supply chain operations. I use mathematical modeling and optimization to address real-world operational challenges faced by AM service providers. I am also interested in how shared additive manufacturing gives rise to new supply chain structures and dynamics.
+I am a researcher working at the intersection of production scheduling, additive manufacturing, and supply chain operations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I use mathematical modeling and optimization to address real-world operational challenges faced by AM service providers.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I am also interested in how shared additive manufacturing gives rise to new supply chain structures and dynamics.
