@@ -356,8 +356,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Kim]
+  first_name: [Songi]
 
   style: apa
   locale: en
@@ -377,6 +377,8 @@ scholar:
   details_link: Details
 
   query: "@*"
+  sort_by: year, month
+  order: descending, descending
   group_by: year
   group_order: descending
 
