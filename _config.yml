@@ -410,6 +410,7 @@ filtered_bibtex_keywords:
     hal,
     html,
     inspirehep_id,
+    month,
     pdf,
     pmid,
     poster,
